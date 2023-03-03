@@ -5,12 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakaklecha" alt="deepakaklecha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/deepakaklecha1" target="blank"><img src="https://img.shields.io/twitter/follow/deepakaklecha1?logo=twitter&style=for-the-badge" alt="deepakaklecha1" /></a> </p>
+
+- 📫 How to reach me **deepakaklecha2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/deepakaklecha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakaklecha1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepakaklecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakaklecha" height="30" width="40" /></a>
+<a href="https://instagram.com/deepak._.aklecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak._.aklecha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/12_deepakaklecha73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="12_deepakaklecha73" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deepakaklecha201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepakaklecha201" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/deepakaklecha2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepakaklecha2020" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deepakaklecha2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepakaklecha2020" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/deepakaklecha2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deepakaklecha2020" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
