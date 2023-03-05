@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Aklecha</h1>
-<h3 align="center">A passionate MERN developer</h3>
+<h3 align="center">A passionate FULLSTACK developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakaklecha&label=Profile%20views&color=0e75b6&style=flat" alt="deepakaklecha" /> </p>
 
