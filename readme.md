@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakaklecha" alt="deepakaklecha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/deepakaklecha1" target="blank"><img src="https://img.shields.io/twitter/follow/deepakaklecha1?logo=twitter&style=for-the-badge" alt="deepakaklecha1" /></a> </p>
 
 - 📫 How to reach me **deepakaklecha2020@gmail.com**
 
