@@ -7,7 +7,7 @@
 
 
 - 📫 How to reach me **deepakaklecha2020@gmail.com**
- <a href="https://twitter.com/DeepakAklecha1">
+- <a href="https://twitter.com/DeepakAklecha1">
   <img align="left" alt="Deepak's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/deepak-aklecha-88a633198/">
@@ -16,7 +16,7 @@
 <a href="https://github.com/deepakaklecha">
   <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br>
+<br><br>
 
 ## Github Stats
 
